@@ -1,1 +1,2 @@
 Staging log
+adding the script to upload to main.
